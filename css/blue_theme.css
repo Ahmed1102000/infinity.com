@@ -1,0 +1,199 @@
+/****************** start Color White *****************/
+.navbar-nav>li>.dropdown-menu,
+.navbar.navbar-inverse .navbar-nav>.active>a,
+.navbar .navbar-inverse .navbar-nav>.active>a:focus,
+.navbar .navbar-inverse .navbar-nav>.active>a:hover,
+.dropdown-menu>li>a,
+.option-box .option-color,
+.table-price .price-box,
+.subscribe h1,
+.our-team ,
+.subscribe p,
+.contact-us ,
+.contact-us .contact input[type="text"],
+.contact-us .contact textarea.form-control,
+.footer h3 {
+    color:#00F;
+}
+
+.table-price .price-box p  {
+    border:2px solid #00F;
+}
+
+
+
+/****************** End Color White *****************/
+
+/***************Start color red ****************/
+
+.navbar-brand  span,
+.about h1 span {
+    color:#00F;
+}
+
+
+/****************End color Red ****************/
+
+
+
+/****************Start color Purple *************/
+.navbar-nav>li>.dropdown-menu{
+    border-top:3px solid #00F;
+}
+
+
+
+/*************End color Purple *****************/
+
+
+/***************Another color ****************/
+.navbar-nav>li>.dropdown-menu{
+    background-color:rgba(0,0,0,0.7);
+    
+    
+}
+
+.navbar.navbar-inverse .navbar-nav>.active>a,.navbar .navbar-inverse .navbar-nav>.active>a:focus,.navbar .navbar-inverse .navbar-nav>.active>a:hover {
+    background-color:rgba(255,255,255,0.1);
+    
+    
+
+}
+
+
+
+
+.carousel-indicators .active {
+    border:1px solid #00F;
+    background-color:#00F;
+}
+
+.option-box .option-color{
+    
+    border: 4px solid #00F;
+    
+}
+
+.option-box .option-color ul li {
+    background-color:#00F;
+    
+}
+
+.option-box .gear-check {
+    background-color:#00F;
+    
+}
+
+
+
+.about p {
+    color:#00F;
+}
+
+.dropdown-menu .divider {
+    border-top:2px solid #00F;
+}
+
+.features {
+    background-color:#EEE;
+}
+
+.features h1 {
+    color:#00F;
+}
+.features .feat span {
+    color:#00F;
+}
+
+.testimonial .carousel-indicators li {
+    border:2px solid #00F;
+}
+
+
+.testimonial .carousel-indicators li.active {
+    border:3px solid #00F;
+    
+}
+
+.table-price {
+    background-color:#EEE;
+    
+}
+
+.table-price .price-box {
+    border:1px solid #00F;
+    
+}
+
+.table-price .price-box:hover p{
+    border:2px solid #00F;
+}
+
+.table-price .price-box p {
+
+    color:#00F;
+
+    background-color:#CCC;
+
+    
+}
+
+
+
+.statistic .data .stat h1{
+    color: #00F;
+}
+
+.statistic .data .stat p {
+    color:#00F;
+
+}
+
+
+
+
+
+.our-clients {
+    background-color:#EEE;
+    
+}
+
+.footer {
+    background-color:#444;
+    color:#00F;
+    
+    
+}
+
+.footer h2 {
+    color:#00F;
+    
+}
+
+
+.footer .four i {
+    color:#00F;
+}
+
+
+
+
+
+
+.footer img {
+    border:1px solid #00F;
+
+
+}
+
+.footer .copy-right  {
+    background-color:#00F;
+    
+    color:#00F;
+    
+}
+
+.footer .copy-right span {
+    color:#000
+}
+

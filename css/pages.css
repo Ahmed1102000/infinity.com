@@ -1,0 +1,111 @@
+/* Start section about us */
+
+.breadcrumb-holder{
+    background-color: #f6f6f6;
+}
+
+.breadcrumb-holder .breadcrumb {
+    margin:20px 0;
+}
+
+
+.breadcrumb-holder .breadcrumb li a {
+    cursor:pointer;
+    font-size:30px;
+}
+
+.about h1 {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: -3px;
+    font-size:80px;
+}
+
+.about p {
+    color:#000;
+    font-weight:600
+}
+
+.about {
+    padding:70px 0;
+}
+.about hr {
+    width:75%;
+}
+.about img {
+    width:2000px;
+}
+
+.about-features {
+    padding-bottom:50px;
+}
+
+.about-features h2 {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 0px;
+}
+
+.about-ceo {
+    padding:0 70px;
+
+}
+
+.about-ceo h1 {
+    font-family:'Raleway', sans-serif;
+    letter-spacing:-1px;
+}
+
+.about-ceo .lead{
+    line-height:2em;
+}
+
+.about-ceo .btn-primary {
+    background-color:#000;
+    border-color:#333;
+    color:#FFF;
+    display:block;
+    height:50px;
+    font-size:25px;
+    margin-bottom:30px;
+} 
+/* End section about us */
+
+
+
+/* Start section FAQ */
+
+.faq-question {
+    padding:50px 0;
+}
+
+
+.faq-question h1 {
+    font-family:"raleway" , sans-serif;
+    letter-spacing: -3px;
+    font-size:80px;
+    text-align:center;
+}
+
+
+.faq-question p{
+    font-family: "raleway" , sans-serif;
+    font-size:20px;
+    text-align:center
+}
+
+
+.faq-question .panel-heading a:after {
+    content: "\e114";
+    font-family:"Glyphicons Halflings";
+    color:#444;
+    float:right
+
+}
+
+
+
+.faq-question .panel-heading a.collapsed:after {
+    content:"\e080";
+    color:#999;
+}
+
+/*End section Faq */
